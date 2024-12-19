@@ -56,8 +56,4 @@
    7. 接收 JSON 回應
    8. 更新並展示 UI
 
-刪除學生資料
 
-路徑：DELETE /api/v1/user/delete/:id
-
-說明：根據學生的唯一 ID 刪除學生資料。
